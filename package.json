@@ -12,9 +12,9 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^6.0.3",
-    "@angular/common": "^6.0.3",
+    "@angular/common": "^6.0.0",
     "@angular/compiler": "^6.0.3",
-    "@angular/core": "^6.0.3",
+    "@angular/core": "^6.0.0",
     "@angular/forms": "^6.0.3",
     "@angular/http": "^6.0.3",
     "@angular/platform-browser": "^6.0.3",
@@ -22,7 +22,15 @@
     "@angular/router": "^6.0.3",
     "core-js": "^2.5.4",
     "rxjs": "^6.0.0",
-    "zone.js": "^0.8.26"
+    "zone.js": "^0.8.26",
+    "@ng-bootstrap/ng-bootstrap": "^2.0.0",
+    "angular-font-awesome": "^3.1.2",
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "@mitel/cloudlink-sdk": "^0.1.0-alpha.14",
+    "@mitel/cl-console-components": "0.0.1",
+    "@ngx-translate/core": "^10.0.2",
+    "ngx-translate-multi-http-loader": "^2.0.2"
   },
   "devDependencies": {
     "@angular/compiler-cli": "^6.0.3",
